@@ -148,7 +148,8 @@ type InitialState = {
 - The success response needs to rendered in a table where the data is rendered
   in a rows of a Table using `Chakra-UI` table components.
 - Example screenshot
-  ![User Table image](https://raw.githubusercontent.com/Biswal21/user-view-client/main/src/assets/user-home-page.png)
+
+  ![Users Table image](https://raw.githubusercontent.com/Biswal21/user-view-client/main/src/assets/users-home-page.png)
 
 ### User experience for viewing detailed data from response
 
